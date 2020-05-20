@@ -1,0 +1,64 @@
+/* Navigation Bar */
+.navigation{
+    background-color: #FAFAFA;
+    overflow: hidden;
+ }
+ .inline-block{
+    display: inline-block;
+    vertical-align: top;
+ }
+ .Menu{
+    width: 5%;
+    margin-right: auto;
+ }
+ .Logo{
+    width: 23%;
+    padding: 1%;
+    margin-left: auto;
+    float: left;
+  
+ }
+ .nav{
+    width: 73%;
+    padding: 1%;
+ }
+  
+ /* Center page (Hero) */
+  
+ section.heroImg{
+    padding: 50px;
+    display: inline-block;
+    background-color:#BEBEBE;
+ }
+ .content{
+    width: 500px;
+    float: right;
+    margin: auto;
+  
+ }
+ .image{
+    float: left;
+    width: 10%;
+    padding-right: 50px;
+ }
+ .sub{
+    display: inline-block;
+    margin-left: 50%;
+    margin-right: 50%;
+ }
+ .footer{
+    display: inline-block;
+    position: fixed;
+    left:0;
+    right:0;
+ }
+ .footLogo{
+    float: left;
+    width: 70%
+  
+ }
+ .rights{
+    float: right;
+    width: 10%;
+ }
+ 
